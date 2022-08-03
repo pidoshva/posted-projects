@@ -1,5 +1,5 @@
 
-# UVSim by Void
+# UVSim by Void (v1)
 ## Contributors: 
 #### Katia Anatska;
 #### Devyn Clayson;
