@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import face_recognition as fr
 import os
-from time import sleep
 from pronounce import *
 from face_training import *
 
