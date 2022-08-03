@@ -1,0 +1,46 @@
+Order #1, Date: 2022-03-17
+Amount: $30.72, Paid by PayPal ID: geleuspays@gmail.com
+
+Customer ID #1102
+Vadim Pidoshva, ph. 3955390602, email: vpgeleus@gmail.com
+235 N 1200 W apt.301
+Orem, UT 84057
+
+Order Details:
+	Item 12527: "Bagelers - Cinn / Brown Sugar", 1 @ 3.99
+	Item 25669: "Bar Nature Valley", 3 @ 1.59
+	Item 79758: "Beef Flat Iron Steak", 4 @ 5.49
+
+===========================
+Order #2, Date: 2022-03-17
+Amount: $9.69, Paid by Wire transfer from Bank ID 12912899, Account# 22999288
+
+Customer ID #7573
+Katia Anatska, ph. 8014202558, email: ekntsk@gmail.com
+Freedom Avenue 21
+Oregon, OR 99889
+
+Order Details:
+	Item 10899: "Cheese - Cheddar Mild", 1 @ 2.69
+	Item 23523: "Beef - Rib Roast Capless", 1 @ 7.00
+
+===========================
+Order #3, Date: 2022-03-18
+Amount: $51.75, Paid by Credit card 213124411, exp. 17-29
+
+Customer ID #5392
+Tom Roots, ph. 8022734756, email: tomasroots70@gmail.com
+Lindale Driveway 33
+Tyler, TX 88992
+
+Order Details:
+	Item 11281: "Muffin - Mix - Bran And Maple", 1 @ 3.25
+	Item 12841: "Mushroom - Crimini", 4 @ 2.19
+	Item 21285: "Nori Sea Weed", 2 @ 4.00
+	Item 35718: "Corn Syrup", 3 @ 1.39
+	Item 37019: "Instant Coffee", 1 @ 6.00
+	Item 40844: "Cookie Dough - Oatmeal Rasin", 2 @ 2.29
+	Item 56826: "Flour - Bread", 4 @ 4.00
+	Item 58994: "Couscous", 1 @ 0.99
+
+===========================
