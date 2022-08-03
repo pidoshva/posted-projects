@@ -12,4 +12,4 @@ Make sure you have them installed before you run the program.
   
 To run the program execute `main.py`.
 
-[*For more information please follow the link*](https://geleus.io/projects/facial_recognition/)
+[*For more information please follow the link.*](https://geleus.io/projects/facial_recognition/)
