@@ -1,3 +1,9 @@
+"""
+Facial Recognition
+by Vadim Pidoshva (Geleus)
+Completed: 08/02/2022
+https://geleus.io/
+"""
 import os
 import cv2
 from imutils import paths
