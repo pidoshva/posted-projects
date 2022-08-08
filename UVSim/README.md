@@ -7,7 +7,10 @@
 ##### Christopher Pryor;
 ##### Martin Robinette.
 
-# How to use the program
+# Usage:
+
+<img width="394" alt="Screen Shot 2022-08-08 at 2 33 58 AM" src="https://user-images.githubusercontent.com/84491549/183375957-9f7aaf57-08c8-4057-b031-d54e6b3d0ab6.png">
+
 
     Launching the program-
         Open the main.cpp file and run without debugging.
