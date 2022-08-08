@@ -3,3 +3,4 @@
 - UVSim [c++]
 - Online Groceries [python]
 - Facial Recognition [python]
+- Image Compression [MATLAB]
