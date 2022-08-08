@@ -9,7 +9,7 @@
 
 # Usage:
 
-<img width="394" alt="Screen Shot 2022-08-08 at 2 33 58 AM" src="https://user-images.githubusercontent.com/84491549/183375957-9f7aaf57-08c8-4057-b031-d54e6b3d0ab6.png">
+![image](https://user-images.githubusercontent.com/84491549/183376244-d27476dd-c79d-43ee-9729-db57bf3f6104.png)
 
 
     Launching the program-
