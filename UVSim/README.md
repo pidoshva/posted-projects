@@ -1,5 +1,5 @@
 # UVSim by Void
-## Contributors: 
+### Contributors: 
 #### Katia Anatska;
 #### Devyn Clayson;
 #### Jansen Fuller;
@@ -7,7 +7,7 @@
 #### Christopher Pryor;
 #### Martin Robinette.
 
-#How to use the program
+# How to use the program
 
     Launching the program-
         Open the main.cpp file and run without debugging.
