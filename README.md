@@ -1,5 +1,5 @@
 ## Storage of projects for https://geleus.io/projects
 ### Projects:
-- UVSimulator [c++]
+- UVSim [c++]
 - Online Groceries [python]
 - Facial Recognition [python]
