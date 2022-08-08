@@ -55,7 +55,7 @@
 
 
 
-#Everything that follows are individual file explanations for developers.
+# Everything that follows are individual file explanations.
 # File: main.cpp
     main() {
         initialize the terminal window.
