@@ -1,5 +1,11 @@
-# TeamVoid-UVSim
-UVSim Program (CS2450)
+# UVSim by Void
+## Contributors: 
+#### Katia Anatska;
+#### Devyn Clayson;
+#### Jansen Fuller;
+#### Vadim Pidoshva;
+#### Christopher Pryor;
+#### Martin Robinette.
 
 #How to use the program
 
@@ -44,7 +50,7 @@ UVSim Program (CS2450)
             BRANCHZERO - 42 - Branch Memory Address - Branch to a specific location in memory if the accumulator is zero.
             HALT       - 43 - None                  - Pause the program.
 
-    Once you're done with your program you can save it or quit. Have fun!
+
 
 #Everything that follows are individual file explanations for developers.
 # File: main.cpp
