@@ -1,11 +1,11 @@
 # UVSim by Void
 ### Contributors: 
-#### Katia Anatska;
-#### Devyn Clayson;
-#### Jansen Fuller;
-#### Vadim Pidoshva;
-#### Christopher Pryor;
-#### Martin Robinette.
+##### Katia Anatska;
+##### Devyn Clayson;
+##### Jansen Fuller;
+##### Vadim Pidoshva;
+##### Christopher Pryor;
+##### Martin Robinette.
 
 # How to use the program
 
